@@ -1,0 +1,41 @@
+11 40
+Chain 1 is created with (11,40)
+111 140
+(111,140) is inserted into Chain 1
+211 240
+(211,240) is inserted into Chain 1
+311 340
+(311,340) is inserted into Chain 1
+411 440
+(411,440) is inserted into Chain 1
+511 540
+(511,540) is inserted into Chain 1
+611 640
+(611,640) is inserted into Chain 1
+711 740
+(711,740) is inserted into Chain 1
+811 840
+(811,840) is inserted into Chain 1
+911 940
+(911,940) is inserted into Chain 1
+160 180
+(160,180) is inserted into Chain 1
+360 380
+(360,380) is inserted into Chain 1
+560 580
+(560,580) is inserted into Chain 1
+760 780
+(760,780) is inserted into Chain 1
+150 190
+Chain 2 is created with (150,190)
+750 790
+(750,790) is inserted into Chain 2
+185 400
+Chain 3 is created with (185,400)
+390 755
+Chain 4 is created with (390,755)
+
+Chain 1: 11-40 < 111-140 < 160-180 < 211-240 < 311-340 < 360-380 < 411-440 < 511-540 < 560-580 < 611-640 < 711-740 < 760-780 < 811-840 < 911-940\\
+Chain 2: 150-190 < 750-790
+Chain 3: 185-400
+Chain 4: 390-755
